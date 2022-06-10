@@ -1,0 +1,6 @@
+1;Diego;Huerta;diego@huerta.com;10/12/1994;male;150;2;2,4;1;5;1;2;2;2,3
+2;Elsa;Reina;elsa@reina.com;3/6/1987;female;20;0;;0;;0;;1;1
+3;Sandra;Téllez;sandra@tellez.com;23/7/2003;female;150;;0;;0;;0;;1;2
+4;Jose Manuel;Contreras; jose@contreras.com;26/5/1996;female;150;0;;0;;0;;1;3
+5;Jorge;Ocasio;jorge@ocasio.com;27/7/1996;male;150;0;;0;;0;;4;1,2,3,4
+6;Ainhoa;Elizondo;ainhoa@elizondo.com;18/4/1959;female;500;6;1,2,3,4,5,6;0;;2;5,3;0;

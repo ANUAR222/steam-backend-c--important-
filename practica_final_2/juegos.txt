@@ -1,0 +1,12 @@
+1;Death Stranding30/3/2022;39.990002;
+2;Arma III13/9/2013;27.990000;
+3;Patrick's Parabox29/3/2022;16.790001;
+4;Blasphemous10/9/2019;24.990000;
+1;adventure
+50/2/2022;59.990002;
+6;Age of Empires IV28/10/2021;59.990002;
+1;Death Stranding30/3/2022;39.990002;
+2;Arma III13/9/2013;27.990000;
+3;Patrick's Parabox29/3/2022;16.790001;
+1;Arma III0/2/2022;27.990000;
+00;

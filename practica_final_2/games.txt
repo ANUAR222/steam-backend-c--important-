@@ -1,0 +1,24 @@
+1;Death Stranding;30/3/2022;39.99;2;action,adventure
+2;Arma III;13/9/2013;27.99;2;action,shooter
+3;Patrick's Parabox;29/3/2022;16.79;2;puzzle,indie
+4;Blasphemous;10/9/2019; 24.99;is2d;1;adventure
+5;Elden Ring;25/2/2022; 59.99;2;action,adventure
+6;Age of Empires IV;28/10/2021;59.99;1;strategy
+1;Death Stranding;30/3/2022;39.99;2;action,adventure
+2;Arma III;13/9/2013;27.99;2;action,shooter
+3;Patrick's Parabox;29/3/2022;16.79;2;puzzle,indie
+4;Blasphemous;10/9/2019; 24.99;is2d;1;adventure
+5;Elden Ring;25/2/2022; 59.99;2;action,adventure
+6;Age of Empires IV;28/10/2021;59.99;1;strategy
+1;Death Stranding;30/3/2022;39.99;2;action,adventure
+2;Arma III;13/9/2013;27.99;2;action,shooter
+3;Patrick's Parabox;29/3/2022;16.79;2;puzzle,indie
+4;Blasphemous;10/9/2019; 24.99;is2d;1;adventure
+5;Elden Ring;25/2/2022; 59.99;2;action,adventure
+6;Age of Empires IV;28/10/2021;59.99;1;strategy
+1;Death Stranding;30/3/2022;39.99;2;action,adventure
+2;Arma III;13/9/2013;27.99;2;action,shooter
+3;Patrick's Parabox;29/3/2022;16.79;2;puzzle,indie
+4;Blasphemous;10/9/2019; 24.99;is2d;1;adventure
+5;Elden Ring;25/2/2022; 59.99;2;action,adventure
+6;Age of Empires IV;28/10/2021;59.99;1;strategy
